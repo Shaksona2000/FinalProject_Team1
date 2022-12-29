@@ -1,0 +1,12 @@
+# Default ignored files
+.idea/
+build/
+target/
+
+src/main/resources
+
+*.ipr
+*.iml
+*.iws
+*.log
+*.mdmp
